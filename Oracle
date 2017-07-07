@@ -1,1 +1,1 @@
-s
+@ FilePath.sql读取sql文件，然后可以直接执行很多oracle命令
