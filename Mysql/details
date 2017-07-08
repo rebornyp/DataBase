@@ -1,0 +1,13 @@
+/**
+*这里有一些非常有用的MYSQL操作命令，值得学习
+*/
+
+1：在jsp页面显示中经常用到分页符号，配合数据库使用效果非常好
+select * from tableName limit startPosition, size;
+
+2:如果想彻底消除数据库的一些自动叠加上的序号之类的，
+Truncate tableName;
+
+3:登录Mysql命令：
+mysql -u useName -p [ENTER] password;
+
